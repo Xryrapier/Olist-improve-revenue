@@ -1,4 +1,4 @@
-# Olist Platform Description
+# Olist latform improvement sales project
 
 <img align="right" alt="Coding" width="400" src="Imagenes.png">
 
