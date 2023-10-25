@@ -21,4 +21,4 @@ Olist offers several key features that make online selling accessible and succes
 
 ## Available Data
 Olist provides access to detailed data on merchant transactions and operations on its platform, including information on delivery times, consumer ratings, and more. These data will be crucial for conducting the analysis and strategy evaluation.
-Download csvs from https://wagon-public-datasets.s3.amazonaws.com/olist/olist.zip and unzip them inside olist_data/
+Download csvs from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2 and unzip them inside olist_data/
