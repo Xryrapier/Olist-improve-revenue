@@ -1,6 +1,6 @@
 # Olist platform improvement sales project
 
-<img align="right" alt="Coding" width="400" src="Imagenes.png">
+<img align="right" alt="Coding" width="400" src="image.png">
 
 ## Introduction
 Olist is an e-commerce platform that enables small and medium-sized businesses in Brazil and other Latin American countries to effectively and easily sell their products online. This platform offers merchants a comprehensive solution that encompasses product listing, order management, and delivery logistics.
