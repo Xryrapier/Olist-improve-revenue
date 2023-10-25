@@ -3,7 +3,7 @@
 ## Introduction
 Olist is an e-commerce platform that enables small and medium-sized businesses in Brazil and other Latin American countries to effectively and easily sell their products online. This platform offers merchants a comprehensive solution that encompasses product listing, order management, and delivery logistics. The purpose of this document is to provide a brief description of the Olist platform, serving as a starting point for a GitHub project aimed at improving sales using data related to delivery times and consumer ratings.
 
-<img align="right" alt="Coding" width="400" src="Diseño sin título.png">
+<img align="right" alt="Coding" width="400" src="Imagenes.png">
 
 ## Key Features
 Olist offers several key features that make online selling accessible and successful for merchants, including:
